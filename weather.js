@@ -48,4 +48,4 @@ bot.on('ready', () => {
 
 });
 
-bot.login('NzE0NDQ2ODY5OTg3NTkwMTQ0.Xs-dOg.Q_9_1NT2NaUpdYIf2S74RGDqhB8');
+bot.login('token xd');
