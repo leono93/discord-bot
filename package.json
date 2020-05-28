@@ -1,8 +1,8 @@
 {
-  "name": "Testing discords bots",
+  "name": "discord-bot-tests",
   "version": "0.0.1",
   "devDependencies": {
     "discord.js": "^12.2.0",
-    "weather.js": "^0.1.0"
+    "weather-js": "^2.0.0"
   }
 }
